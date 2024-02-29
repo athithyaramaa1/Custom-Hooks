@@ -14,7 +14,7 @@ You can follow the links below - to get a better idea of `custom hooks`.
 
 # Task:
 
-Your task is to create a custom hook called -> `useStorage` --> which stores the value typed in a `text field`, both into `local storage` and `session storage`.
+Your task is to create a custom hook called -> `UseAthithya` --> which stores the value typed in a `text field`, both into `local storage` and `session storage`.
 
 Your ouptut would look something like below:
 Also, to check whether, your input is being stored or not, you can go to `application` tab and see the local storage and session storage, options -> like shown below.
